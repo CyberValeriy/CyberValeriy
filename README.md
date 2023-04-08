@@ -6,22 +6,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/philippbliznuk" target="blank">
+  <a href="https://www.linkedin.com/in/valeriyh88/" target="blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="philippbliznuk"
+      alt="cybervaleriy"
     />
   </a>
-  <a href="https://fb.com/philipp.bliznuk" target="blank">
-    <img
-      src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge"
-      alt="philipp.bliznuk"
-    />
-  </a>
-  <a href="https://instagram.com/philipp.bliznuk" target="blank">
+  <a href="https://www.instagram.com/valeriy.hr/" target="blank">
     <img
       src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge"
-      alt="philipp.bliznuk"
+      alt="cybervaleriy"
     />
   </a>
 </div>
@@ -32,8 +26,8 @@
 
 <div align="center">
   <img
-    src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
-    width="600"
+    src="https://itarena.ua/wp-content/uploads/2020/02/tetiana-s-logo-final.png"
+    width="850"
     height="300"
   />
 </div>
